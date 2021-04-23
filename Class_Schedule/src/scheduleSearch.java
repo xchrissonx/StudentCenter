@@ -11,7 +11,7 @@ public class scheduleSearch extends classInfo {
 			classInfo nn = new classInfo();
 			result.add(nn);
 		}
-		
+		//Demo 
 		//first course
 		result.get(0).setClassId(80407);
 		result.get(0).setTitle("CSC 130 - Data Structure+Algorithm Analy (3 Units)" );
